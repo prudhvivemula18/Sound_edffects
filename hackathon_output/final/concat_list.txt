@@ -1,0 +1,8 @@
+file 'hackathon_output\final\merged_clip_01.mp4'
+file 'hackathon_output\final\merged_clip_02.mp4'
+file 'hackathon_output\final\merged_clip_03.mp4'
+file 'hackathon_output\final\merged_clip_04.mp4'
+file 'hackathon_output\final\merged_clip_05.mp4'
+file 'hackathon_output\final\merged_clip_06.mp4'
+file 'hackathon_output\final\merged_clip_07.mp4'
+file 'hackathon_output\final\merged_clip_08.mp4'

@@ -1,0 +1,11 @@
+SCENE 1: Anjana's Blessing
+
+NARRATION TEXT:
+On a sacred peak, Anjana prays with unwavering faith. A divine blessing descends, promising her a son of unmatched power.
+
+VOICE DIRECTION:
+Tone: Warm and hopeful, tinged with reverence. Pacing: Medium speed with a slight pause after 'faith' and before 'A divine blessing'. Voice character: Gentle, wise, and motherly; an elder telling a treasured story. Emphasize: 'unwavering faith' and 'unmatched power'. Volume: Soft, building slightly on 'unmatched power'. Emotional arc: Starts with serenity and builds to a crescendo of hope and wonder.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

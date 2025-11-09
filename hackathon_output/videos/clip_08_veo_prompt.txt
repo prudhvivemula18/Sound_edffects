@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Slow zoom out as the scene fades to white. Alex's smile lingers. The animals gradually disappear. A feeling of peace and wonder prevails.
+Camera: smooth tracking
+Motion: The scene gently fades to white. Alex's smile remains the last visible element before fading completely.
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

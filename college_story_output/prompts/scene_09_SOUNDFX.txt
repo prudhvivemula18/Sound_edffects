@@ -1,0 +1,6 @@
+SCENE 9: Rejection (Phone Scene)
+================================================================================
+
+SOUND EFFECTS PROMPT
+
+Ambient sounds: Heavy rain against the window (very prominent), distant city hum (faint), and a subtle creaking of the bed frame (almost imperceptible). Action-specific sound effects: A gentle whooshing sound as the text message notification appears, followed by a very soft, almost inaudible sigh at second 5. Music: A slow, melancholic piano melody with cello accompaniment. The melody should be simple and repetitive, creating a sense of unease and sadness. The music fades in at second 1 and builds slightly in intensity, then fades out with the scene at second 8. Audio transitions: Smooth fades between sound effects and music. The overall sound design should create a feeling of intimacy and loneliness, emphasizing the emotional weight of the moment. The rain should be the dominant sound, representing the inner turmoil. Add a subtle, low-frequency rumble to enhance the sense of a storm brewing.

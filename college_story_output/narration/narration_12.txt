@@ -1,0 +1,31 @@
+SCENE 12: Approval
+
+NARRATION TEXT:
+A quiet nod, a heart's whisper. Approval blooms, a shared understanding taking root.
+
+VOICE DIRECTION:
+Warm and gentle, with a hint of gravitas. Pacing is slow and deliberate, with slight pauses after "nod" and "whisper". Emotion is primarily pride and affection. Voice character should be mature (50s-60s) but not frail. Emphasize the words "Approval" and "understanding." Overall mood should be comforting and hopeful, like a loving grandmother sharing a life lesson.
+
+ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 3
+Please retry in 28.564416888s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-tts"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 3
+}
+, retry_delay {
+  seconds: 28
+}
+]

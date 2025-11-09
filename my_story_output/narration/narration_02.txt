@@ -1,0 +1,11 @@
+SCENE 2: Infant's Leap
+
+NARRATION TEXT:
+Tiny Hanuman, in innocent delight, mistook the radiant sun for a ripe, juicy mango. Up, up he flew!
+
+VOICE DIRECTION:
+Tone: Warm, hopeful, and slightly whimsical. Pacing: Medium, with a slight pause after "mango." Voice character: Gentle, grandmotherly, and imbued with wonder. Emphasize: "Radiant sun" and "Up, up he flew!" Volume: Begins softly, building slightly towards the end. Overall emotional arc: Rising excitement and anticipation.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

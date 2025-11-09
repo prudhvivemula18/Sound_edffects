@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Close-up on the squirrel and bird interaction. Alex's smiling face visible in the background. Focus on the gentle movements.
+Camera: smooth tracking
+Motion: The squirrel extends its paw, offering the nut. The injured bird hops closer and takes the nut.
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

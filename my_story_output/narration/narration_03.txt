@@ -1,0 +1,11 @@
+SCENE 3: Indra's Thunderbolt
+
+NARRATION TEXT:
+A brazen challenge met Indra's wrath. The Vajra struck, and mighty Hanuman tumbled, leaving only golden dust behind.
+
+VOICE DIRECTION:
+Tone: Solemn and regretful, with a hint of awe. Pacing: Medium speed, with a slight pause after 'wrath' and before 'the Vajra struck'. Voice Character: Older male voice, wise and authoritative, but also empathetic. Emphasis: Emphasize 'Vajra' and 'golden dust'. Volume: Starts slightly softer, builds to a medium volume on 'Hanuman tumbled', then softens again slightly on 'golden dust'. Emotional Arc: Starts with a sense of foreboding, moves to a moment of impactful action, and ends with a sense of loss.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

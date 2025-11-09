@@ -1,0 +1,31 @@
+SCENE 14: Belief Quote
+
+NARRATION TEXT:
+Every step forward starts with belief. Light rises through the haze, and hope feels tangible in the morning air.
+
+VOICE DIRECTION:
+Warm, hopeful, and slightly breathy. The tone should be encouraging and inspiring, like a gentle mentor. Pacing is slow and deliberate, with a slight pause after 'belief.' Emphasize 'belief' and 'hope.' The overall mood is optimistic and peaceful. The voice should sound mature and experienced, but with a touch of youthful enthusiasm. Inflection should rise slightly on the final word, 'air,' to create a sense of uplift.
+
+ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 3
+Please retry in 23.633045472s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-tts"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 3
+}
+, retry_delay {
+  seconds: 23
+}
+]

@@ -1,0 +1,7 @@
+Create a scene image based on this child's photo.
+        
+Scene: Magical forest clearing, sparkling pond, wise owl, playful squirrel, gentle deer, 18-25 year old male, dark blue sweater, light blue jeans, white sneakers, dark hair, light skin, surprised expression, fantasy creatures, digital painting, detailed background
+Animation direction: The owl blinks slowly and nods its head towards the pond. The squirrel twitches its nose.
+
+Style: Pixar-quality 3D animation, vibrant colors, child-friendly, detailed background.
+Keep the child's face and features recognizable from the reference photo.

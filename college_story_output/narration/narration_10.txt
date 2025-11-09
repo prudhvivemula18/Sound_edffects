@@ -1,0 +1,31 @@
+SCENE 10: New Idea
+
+NARRATION TEXT:
+The morning light stirs. A blank page waits, filled with endless possibilities. A new idea begins to take shape.
+
+VOICE DIRECTION:
+Tone: Warm, hopeful, and slightly whimsical. Emotion: Gentle anticipation. Pacing: Deliberate and unhurried, with slight pauses between phrases. Voice Character: Mature, soothing, and slightly raspy (think Morgan Freeman, but less pronounced). Emphasize: 'morning light,' 'endless possibilities,' and 'new idea.' Overall mood: Calming and encouraging.
+
+ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 3
+Please retry in 33.109551131s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-tts"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 3
+}
+, retry_delay {
+  seconds: 33
+}
+]

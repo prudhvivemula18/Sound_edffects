@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Slow zoom in on the child as he enters the forest. Leaves gently sway in the breeze. Dust motes float in the sunbeams.
+Camera: smooth tracking
+Motion: Zoom in slowly on the child's face as they take a tentative step into the forest.
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

@@ -1,0 +1,7 @@
+Create a scene image based on this child's photo.
+        
+Scene: Magical forest path, ancient trees, luminous moss, brightly colored bird, 18-25 year old male, dark blue sweater, light blue jeans, white sneakers, dark hair, light skin, curious expression, hands clasped, fantasy art, intricate detail
+Animation direction: Follow the bird as it hops to a different branch, leading Alex further into the forest.
+
+Style: Pixar-quality 3D animation, vibrant colors, child-friendly, detailed background.
+Keep the child's face and features recognizable from the reference photo.

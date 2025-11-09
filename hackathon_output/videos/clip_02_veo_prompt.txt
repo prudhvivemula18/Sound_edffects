@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Camera follows the bird's movements, showing Alex following it down the path. The forest path winds and curves. Sunbeams flicker through the trees.
+Camera: smooth tracking
+Motion: Follow the bird as it hops to a different branch, leading Alex further into the forest.
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

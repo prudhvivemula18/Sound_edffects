@@ -1,0 +1,11 @@
+SCENE 2: The Old Sneakers
+
+NARRATION TEXT:
+Old friends, faithful steps. Ready to face the campus, one day at a time.
+
+VOICE DIRECTION:
+Warm, gentle, and slightly nostalgic tone. The voice should sound mature but not old; mid-20s to early 30s. Pacing should be slow and deliberate, emphasizing 'Old friends' and 'one day at a time.' Convey a feeling of quiet resilience and hopeful determination. A slight smile should be audible in the voice. Emphasize 'faithful' and 'ready' as keywords, conveying the reliability of the sneakers and the individual's mindset.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

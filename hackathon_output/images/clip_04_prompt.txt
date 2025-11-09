@@ -1,0 +1,7 @@
+Create a scene image based on this child's photo.
+        
+Scene: Talking owl, glowing text, magical forest clearing, 18-25 year old male, dark blue sweater, light blue jeans, white sneakers, dark hair, light skin, attentive expression, fantasy art, detailed character design
+Animation direction: The owl's beak moves as it 'speaks.' Glowing text appears and fades. Alex nods slightly.
+
+Style: Pixar-quality 3D animation, vibrant colors, child-friendly, detailed background.
+Keep the child's face and features recognizable from the reference photo.

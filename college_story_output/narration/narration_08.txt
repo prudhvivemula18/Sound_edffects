@@ -1,0 +1,31 @@
+SCENE 8: College Life Montage
+
+NARRATION TEXT:
+Every day, a fresh page. New friends, new ideas, a world waiting to be written.
+
+VOICE DIRECTION:
+Warm, optimistic, and slightly nostalgic. The tone should be comforting and encouraging, like a friendly mentor. Pacing should be slightly slower than conversational speed, with slight pauses between phrases to allow the words to resonate. The voice should be relatively young (20s-30s), but mature enough to sound credible. Emphasize 'fresh page,' 'new ideas,' and 'world waiting.' Overall mood: hopeful and inviting.
+
+ERROR: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 3
+Please retry in 37.374754384s. [links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-flash-tts"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 3
+}
+, retry_delay {
+  seconds: 37
+}
+]

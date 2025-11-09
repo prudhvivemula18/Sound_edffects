@@ -1,0 +1,11 @@
+SCENE 4: Classroom Reflection
+
+NARRATION TEXT:
+Ideas take shape within these lines. The world outside fades, as knowledge unfolds.
+
+VOICE DIRECTION:
+Tone: Warm, reflective, and slightly nostalgic. Emotion: Calm curiosity and gentle understanding. Pacing: Deliberately slow and measured, with slight pauses between phrases. Voice Character: Calm, mature, and slightly androgynous, conveying a sense of wisdom and perspective. Key words to emphasize: "Ideas," "shape," "fades," "unfolds." Overall mood: Introspective and thoughtful.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

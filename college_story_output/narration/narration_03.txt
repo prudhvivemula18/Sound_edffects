@@ -1,0 +1,11 @@
+SCENE 3: Campus Walk
+
+NARRATION TEXT:
+Dawn paints the campus gold. Each step echoes with possibility, carrying dreams forward.
+
+VOICE DIRECTION:
+Warm and slightly nostalgic tone. Pacing is slow and deliberate, allowing each word to resonate. The voice should be mature and calming, with a touch of optimism. Emphasize the words 'gold,' 'possibility,' and 'dreams.' The overall mood should be hopeful and reflective, conveying a sense of anticipation and potential.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+

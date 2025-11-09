@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Wide shot of Alex laughing with the animals. The camera pans slowly around the clearing, showcasing the vibrant environment and the sense of community.
+Camera: smooth tracking
+Motion: Alex throws his head back and laughs. The animals react positively to his laughter (e.g., the squirrel twitches its tail happily).
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

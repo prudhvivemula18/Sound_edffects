@@ -1,0 +1,6 @@
+Generate 8-second video:
+        
+Visual: Slow pan across the clearing, showcasing the animals and Alex's surprised reaction. Water ripples gently in the pond. Sunlight glints off the water.
+Camera: smooth tracking
+Motion: The owl blinks slowly and nods its head towards the pond. The squirrel twitches its nose.
+Quality: 4K, Pixar-style animation, smooth 24fps, cinematic lighting

@@ -1,0 +1,7 @@
+Create a scene image based on this child's photo.
+        
+Scene: Squirrel sharing nut with injured bird, act of kindness, magical forest clearing, 18-25 year old male, dark blue sweater, light blue jeans, white sneakers, dark hair, light skin, appreciative expression, fantasy art, detailed interaction
+Animation direction: The squirrel extends its paw, offering the nut. The injured bird hops closer and takes the nut.
+
+Style: Pixar-quality 3D animation, vibrant colors, child-friendly, detailed background.
+Keep the child's face and features recognizable from the reference photo.

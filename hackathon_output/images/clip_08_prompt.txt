@@ -1,0 +1,7 @@
+Create a scene image based on this child's photo.
+        
+Scene: Fading magical forest, Alex smiling knowingly, animals fading away, dreamlike atmosphere, 18-25 year old male, dark blue sweater, light blue jeans, white sneakers, dark hair, light skin, peaceful expression, fantasy art, ethereal glow
+Animation direction: The scene gently fades to white. Alex's smile remains the last visible element before fading completely.
+
+Style: Pixar-quality 3D animation, vibrant colors, child-friendly, detailed background.
+Keep the child's face and features recognizable from the reference photo.

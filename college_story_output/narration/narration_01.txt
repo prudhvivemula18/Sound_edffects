@@ -1,0 +1,11 @@
+SCENE 1: Wake-Up Call
+
+NARRATION TEXT:
+Dawn whispers through the blinds. Another day begins, a new page in her story.
+
+VOICE DIRECTION:
+Tone: Warm, hopeful, and slightly nostalgic. Emotion: Serene, reflective. Pacing: Slow and deliberate, with slight pauses between phrases. Voice Character: Young adult, female, calm, and gentle. Key words to emphasize: 'Dawn,' 'whispers,' 'new.' Overall mood: Peaceful anticipation.
+
+ERROR: 400 The requested combination of response modalities (TEXT) is not supported by the model. models/gemini-2.5-flash-preview-tts accepts the following combination of response modalities:
+* AUDIO
+
